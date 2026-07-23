@@ -6,5 +6,30 @@ Sistema de analise de dados do Cyber Deck:O sistema de analise  foi desenvolvido
 </div>
 
 # comandos para fazer o sistema inicializar quando ligar
+```bash
+    #cirar um srvice
+    sudo nano /etc/systemd/system/name.service
+```
+### configuração do serviço
+```bash
+[Unit]
+Description= oq ele vai fazer 
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=caminho do seu script
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
+```
+```bash
+### Ativação do serviço
+1: sudo systemctl daemon-reload 
+2: sudo systemctl enable name.service
+3: sudo systemctl start name.service
+```
 
 
