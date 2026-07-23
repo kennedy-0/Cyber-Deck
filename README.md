@@ -5,3 +5,6 @@ Sistema de analise de dados do Cyber Deck:O sistema de analise  foi desenvolvido
     <img src="img/esquema.png" width="250">
 </div>
 
+#comandos para fazer o sistema inicializar quando ligar
+
+
