@@ -57,4 +57,5 @@ O teclado do Cyber Deck KNTECK foi desenvolvido inteiramente do zero, desde o pr
     <img src="img/tec.jpg" width="250">
     <img src="img/tecladodiagrama.png" width="350">
 </div>
+Esse código ainda está em desenvolvimento, então possui alguns bugs, mas estou resolvendo aos poucos.
 
