@@ -46,3 +46,10 @@ while True:
 
         time.sleep(30)
 ```
+
+# Hardware:
+## teclado
+
+
+O teclado do Cyber Deck KNTECK foi desenvolvido inteiramente do zero, desde o projeto eletrônico até a montagem e programação. Seu design personalizado foi criado para atender às necessidades do equipamento, oferecendo um layout exclusivo, compacto e funcional, garantindo maior controle, durabilidade e integração com o sistema.
+
