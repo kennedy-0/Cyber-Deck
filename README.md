@@ -25,8 +25,8 @@ User=root
 [Install]
 WantedBy=multi-user.target
 ```
-```bash
 ### Ativação do serviço
+```bash
 1: sudo systemctl daemon-reload 
 2: sudo systemctl enable name.service
 3: sudo systemctl start name.service
