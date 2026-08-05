@@ -6,5 +6,5 @@ while True:
         with open("/proc/sys/vm/drop_caches", "w") as f:
                 f.write("3\n")
 
-        time.sleep(30)
+        time.sleep(300)
 
